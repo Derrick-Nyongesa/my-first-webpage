@@ -1,10 +1,47 @@
-# Example site
+<!--Headings-->
+# Heading 1
+## Heading 2
 
-This is a sample readme file foy my Github repo. 
+### Heading 3
 
-* This is meant to be an example
-* Markdown is really fast.
+<!--Italics-->
+*This text* is italic
 
-strong emphasis, aka bold, with **asterisks** or __underscores__.
+<!--Bold-->
+**This text** is bold
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+<!--Strikethrough-->
+~~This text~~ is canceled
+
+<!--Horizontal line-->
+---
+
+<!--Blockquote-->
+> This is a quote
+
+<!--Links-->
+[Google](https://www.google.com/)
+
+<!--Links with title hover-->
+[Google](https://www.google.com/ "Google")
+
+<!--Unordered List-->
+* Item 1
+* Item 2
+* Item 3
+
+<!--Ordered List-->
+1. Item 1
+1. Item 2
+1. Item 3
+
+<!--Images-->
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+<!--Tables-->
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
